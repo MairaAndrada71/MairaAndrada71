@@ -24,4 +24,7 @@ Podés escribirme a: **mairaandrada@gmail.com**
 
 ---
 
+## 🌐 Redes sociales:
+https://www.linkedin.com/in/maira-natalia-andrada-01a8701b7/
+
 ⭐ Gracias por visitar mi perfil. ¡Seguimos aprendiendo! 💪

@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Maira Natalia Andrada
 
-<!--
-**MairaAndrada71/MairaAndrada71** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudiante de programación | 💻 Apasionada por la tecnología y el aprendizaje constante  
+🧠 Actualmente estoy aprendiendo Python y GitHub  
+🚀 ¡Mi primer proyecto: [Calculadora](https://github.com/MairaAndrada71/calculadora-python)!
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologías que manejo:
+- Javascript (basico)
+- Python 🐍
+- Git y GitHub 🌐
+- HTML & CSS (aprendiendo)
+
+---
+
+## 📌 Sobre mí:
+Soy una persona curiosa y con ganas de seguir creciendo en el mundo de la programación. Me encanta resolver problemas y crear cosas útiles.
+
+---
+
+## 📫 Contacto:
+Podés escribirme a: **mairaandrada@gmail.com**
+
+---
+
+⭐ Gracias por visitar mi perfil. ¡Seguimos aprendiendo! 💪

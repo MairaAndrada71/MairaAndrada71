@@ -1,7 +1,10 @@
-# 👋 ¡Hola! Soy Maira Natalia Andrada
+# 👋 ¡Hola! Mi nombre es Maira Natalia Andrada.
 
-🎓 Estudiante de programación | 💻 Apasionada por la tecnología y el aprendizaje constante  
-🧠 Actualmente estoy aprendiendo Python y GitHub  
+Soy desarrolladora de software junior en constante aprendizaje. Me motiva transformar ideas en soluciones reales, usando código limpio, creatividad y mucho café ☕. 
+
+Actualmente estoy enfocada en mejorar mis habilidades con **Python**, **JavaScript** y herramientas modernas como **React** y **Node.js**.
+Disfruto crear proyectos propios y también colaborar en equipo para construir cosas útiles y bien hechas. 
+
 🚀 ¡Mi primer proyecto: [Calculadora](https://github.com/MairaAndrada71/calculadora-python)!
 
 ---
